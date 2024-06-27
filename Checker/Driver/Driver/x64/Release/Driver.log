@@ -1,0 +1,7 @@
+﻿  Building 'Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Driver.vcxproj -> D:\CTF\AIS3_2024\Checker\Driver\x64\Release\Driver.sys
+  Done Adding Additional Store
+  Successfully signed: D:\CTF\AIS3_2024\Checker\Driver\x64\Release\Driver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
